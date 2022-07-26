@@ -1,0 +1,5 @@
+github repo url - https://github.com/jwelbeck52/project-ml-microservice-kubernetes
+
+pod name -  mlapp-699fc64ffb-qrgbc
+
+dockerpath - jwelbeck/mlapp
