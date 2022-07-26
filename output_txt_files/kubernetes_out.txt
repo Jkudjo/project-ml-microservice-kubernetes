@@ -1,7 +1,9 @@
 NAME                     READY   STATUS    RESTARTS   AGE
-mlapp-699fc64ffb-qrgbc   1/1     Running   0          10m
+mlapp-699fc64ffb-5hnzs   1/1     Running   0          2m36s
 Forwarding from 127.0.0.1:8000 -> 80
 Forwarding from [::1]:8000 -> 80
+Handling connection for 8000
+Handling connection for 8000
 
 
 Port: 8000
